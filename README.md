@@ -1,1 +1,20 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# DSA Practice 🧠
+
+My Data Structures & Algorithms practice and LeetCode solutions.
+
+### Topics
+- Arrays
+- Strings
+- Hashing
+- Two Pointers
+- Sliding Window
+- Stack & Queue
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+
+### Language
+☕ Java
+
+> Solve. Understand. Improve. Repeat.
