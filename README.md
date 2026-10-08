@@ -25,6 +25,7 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshhh1706/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -38,9 +39,18 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshhh1706/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshhh1706/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Harshhh1706/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
