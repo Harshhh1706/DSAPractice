@@ -24,6 +24,7 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -36,5 +37,10 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
