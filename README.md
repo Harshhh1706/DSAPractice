@@ -30,6 +30,7 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -53,4 +54,12 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshhh1706/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
