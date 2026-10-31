@@ -25,12 +25,14 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshhh1706/DSAPractice/tree/master/0054-spiral-matrix) |
+| [0217-contains-duplicate](https://github.com/Harshhh1706/DSAPractice/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Harshhh1706/DSAPractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Harshhh1706/DSAPractice/tree/master/0217-contains-duplicate) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -62,4 +64,8 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Harshhh1706/DSAPractice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
