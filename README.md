@@ -33,6 +33,7 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Harshhh1706/DSAPractice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Harshhh1706/DSAPractice/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/Harshhh1706/DSAPractice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -60,6 +61,7 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshhh1706/DSAPractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Harshhh1706/DSAPractice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,4 +70,5 @@ My Data Structures & Algorithms practice and LeetCode solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harshhh1706/DSAPractice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Harshhh1706/DSAPractice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
